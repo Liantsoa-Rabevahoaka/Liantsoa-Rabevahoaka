@@ -8,7 +8,7 @@ Currently immersed in the coding world, I'm constantly seeking new opportunities
 
 *   🌍  I'm based in Madagascar
 *   ✉️  You can contact me at [liantsoa.rabevahoaka@gmail.com](mailto:liantsoa.rabevahoaka@gmail.com)
-*   🧠  I'm learning Laravel, MERN, Flutter
+*   🧠  I'm learning React, Express, Laravel
 *   ⚡  A fan of Game of Thrones and Mr. Robot - weaving code like a maestro and dreaming of digital realms. 🚀
 
 ### Skills 
@@ -19,7 +19,7 @@ Currently immersed in the coding world, I'm constantly seeking new opportunities
 
 ### Socials
                   
-<p align="left"> <a href="https://www.github.com/Liantsoa-Rabevahoaka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Liantsoa-Rabevahoaka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/liantsoa-rabevahoaka-4b8b46290" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
