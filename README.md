@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Liantsoa RABEVAHOAKA
 ============================================================================================================================================
 
-Web Developer
--------------
-
-Currently immersed in the coding world, I'm constantly seeking new opportunities to learn and grow as a developer.
+Immersed in the world of coding, my passion is a constant quest for learning and development, where each opportunity represents a new step towards excellence.
 
 *   🌍  I'm based in Madagascar
 *   ✉️  You can contact me at [liantsoa.rabevahoaka@gmail.com](mailto:liantsoa.rabevahoaka@gmail.com)
